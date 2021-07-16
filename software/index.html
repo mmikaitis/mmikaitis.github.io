@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Mantas  Mikaitis | (if blank, full name will be used instead)</title>
+<title>Mantas  Mikaitis | Software</title>
 <meta name="description" content="Profile page of Mantas Mikaitis.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/software/">
 
 <!-- Theming-->
 
@@ -105,9 +105,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/software/">
                 Software
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -147,56 +149,90 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Software</h1>
+    <p class="post-description">Below is a list of software I have recently made contributions to.</p>
+  </header>
+
+  <article>
+    <ul>
+
+<li> <b>Anymatrix</b><br />
+
+A MATLAB matrix collection with an interface to organize matrices into groups and sets. It provides commands to search for matrices by their properties and generate matrices by their unique IDs. <br />
+
+<a href="https://github.com/mmikaitis/anymatrix">Source code (GitHub).</a>
+
+</li>
+<br />
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2018/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-  </ul>
+<li> <b>Testsuites for the GPU floating-point arithmetics</b><br />
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="(if blank, full name will be used instead)">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="(if blank, full name will be used instead) - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="(if blank, full name will be used instead) - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+A set of testsuites for the numerical behaviour of recent GPUs equipped with the matrix multiply-accumulate floating-point operation in hardware. <br />
+
+<a href="https://github.com/mfasi/tensor-cores-numerical-behavior">Source code (GitHub).</a>
+
+</li>
+<br />
 
 
+
+<li> <b>CPFloat</b><br />
+
+A C library for rounding matrix elements to customizable lower precision floating-point data types. <br />
+
+<a href="https://github.com/mfasi/cpfloat">Source code (GitHub).</a>
+
+</li>
+<br />
+
+
+
+<li> <b>Stochastic Rounding Toolbox</b><br />
+
+A collection of MATLAB functions for emulating stochastic rounding on IEEE 754-compliant hardware. <br />
+
+<a href="https://uk.mathworks.com/matlabcentral/fileexchange/74819-stochastic-rounding-toolbox">Source code (MATLAB File Exchange).</a>
+
+</li>
+<br />
+
+
+
+<li> <b>MATLAB chop</b><br />
+
+A MATLAB function for rounding matrix elements to customizable lower precision floating-point data types.<br />
+
+<a href="https://github.com/higham/chop">Source code (GitHub).</a>
+
+</li>
+<br />
+
+
+
+<li> <b>Fixed-point arithmetic library <font face="Courier New" size="4">round.h</font></b> <br />
+
+A library of fixed-point arithmetic extensions to the ISO 18037 implementation of the GCC, used in the SpiNNaker neuromorphic chip. <br />
+
+<a href="https://github.com/SpiNNakerManchester/spinn_common/blob/master/include/round.h">Source code (GitHub).</a>
+
+</li>
+<br />
+
+
+
+<li> <b>GNU Compiler Collection (GCC)</b><br />
+
+A list of my patches to the GCC can be found <a href="https://gcc.gnu.org/git/?p=gcc.git;a=search;h=HEAD;s=Mantas+Mikaitis;st=author">here</a>.
+
+</li>
+<br />
+
+</ul>
+
+
+  </article>
 
 </div>
 
