@@ -2,25 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Department of Mathematics, University of Manchester.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mantas-profile-pic0.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Computing</p>
+    <p>Sir William Henry Bragg Building</p>
+    <p>University of Leeds</p>
+    <p>Woodhouse Lane, Leeds</p>
+    <p>LS2 9JT, UK </p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Lecturer in the [School of Computing](https://eps.leeds.ac.uk/computing) at the University of Leeds. Before this I was a Research Associate with the [Numerical Linear Algebra Group](https://nla-group.org) at the University of Manchester, working with [Professor Nicholas J. Higham](https://nhigham.com). I received a B.Sc. (Hons.) degree in Computer Science in 2016 and a PhD degree in Computer Science in 2020 (supervised by Dr David Lester and Professor Steve Furber), both from the University of Manchester.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include: computer arithmetic, numerical linear algebra, high-performance computing, mathematical software, performance optimization and benchmarking.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM assembly, Git, LaTeX, Bash.
+
+I occasionally contribute to the [NLA group blog](https://nla-group.org/blog/).
+
+My [.bib file](https://github.com/mmikaitis/mm-bib/blob/main/mm-bib.bib).
+
+[Mathematics Genealogy Project entry](https://www.mathgenealogy.org/id.php?id=290941). Tree ([PNG](../assets/img/tree.png)) generated with [Geneagrapher](https://observablehq.com/@davidalber/geneagrapher).

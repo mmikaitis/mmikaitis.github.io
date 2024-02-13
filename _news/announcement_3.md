@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-11-23 15::00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I wrote a new blog post on simulating stochastic rounding in IEEE 754-compliant arithmetics. It is published [here](https://nla-group.org/2020/11/23/simulating-stochastically-rounded-floating-point-arithmetic-efficiently/).
