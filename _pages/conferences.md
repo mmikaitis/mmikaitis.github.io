@@ -64,7 +64,7 @@ nav: true
 </li>
 <p> </p>
 
-<li><a href="https://arith2021.arithsymposium.org">28th IEEE Symposium on Computer Arithmetic (ARITH 2021)</a>. Turin, Italy (Virtual). Jun. 2021. <a href="../assets/pdf/Presentation-ARITH2021.pdf">Slides</a>.
+<li><a href="http://arith2021.arithsymposium.org">28th IEEE Symposium on Computer Arithmetic (ARITH 2021)</a>. Turin, Italy (Virtual). Jun. 2021. <a href="../assets/pdf/Presentation-ARITH2021.pdf">Slides</a>.
 </li>
 <p> </p>
 
