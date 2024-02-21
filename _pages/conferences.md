@@ -8,6 +8,10 @@ nav: true
 
 <ul>
 
+<li><a href="https://posithub.org/conga/2024/">2024 Conference for Next Generation Arithmetic</a>. Virtual. Feb. 2024.
+</li>
+<p> </p>
+
 <li><a href="https://arith2023.arithsymposium.org">30th IEEE International Symposium on Computer Arithmetic</a>. Portland, OR, USA. Sep. 2023.
 </li>
 <p> </p>
