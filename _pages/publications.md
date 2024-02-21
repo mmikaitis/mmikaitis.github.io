@@ -12,6 +12,10 @@ nav: true
 
 <ul>
 
+<li> <a href="https://arxiv.org/pdf/2304.01407v2.pdf">Monotonicity of Multi-Term Floating-Point Adders</a>. arXiv:2304.01407 [cs.MS]. Apr. 2023 (Updated Dec. 2023). Accepted for IEEE Trans. Comput. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+<p> </p>
+
 <li> <a href="https://dl.acm.org/doi/10.1145/3585515">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). ACM Trans. Math. Software, 49:2. Jun. 2023. <a href="https://nla-group.org/2020/11/25/cpfloat/">Blog post</a> on this research.
 </li>
 <p> </p>
@@ -106,10 +110,6 @@ nav: true
 <ul>
 
 <li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-<p> </p>
-
-<li> <a href="https://arxiv.org/pdf/2304.01407v2.pdf">Monotonicity of Multi-Term Floating-Point Adders</a>. arXiv:2304.01407 [cs.MS]. Apr. 2023 (Updated Dec. 2023).
 </li>
 <p> </p>
 
