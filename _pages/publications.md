@@ -12,7 +12,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/pdf/2304.01407v2.pdf">Monotonicity of Multi-Term Floating-Point Adders</a>. arXiv:2304.01407 [cs.MS]. Apr. 2023 (Updated Dec. 2023). Accepted for IEEE Trans. Comput. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://ieeexplore.ieee.org/document/10454250">Monotonicity of Multi-Term Floating-Point Adders</a>. IEEE Trans. Comput. Feb. 2024. Early Access. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
