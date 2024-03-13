@@ -109,6 +109,11 @@ nav: true
 
 <ul>
 
+<li> <a href="../assets/pdf/754-errata-comments.pdf">List of potential typographical issues in
+IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+<p> </p>
+
 <li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
