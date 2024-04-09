@@ -118,10 +118,6 @@ IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024
 </li>
 <p> </p>
 
-<li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-<p> </p>
-
 <li> <a href="https://arxiv.org/abs/2103.08392">The SpiNNaker 2 Processing Element Architecture for Hybrid Digital Neuromorphic Computing</a> (with S. H&ouml;ppner, Y. Yan, B. Vogginger, C. Liu, F. Kelber, A. Dixius, S. Scholze, J. Partzsch, M. Stolba, F. Neum&auml;rker, G. Ellguth, S. Hartmann, S. Schiefer, T. Hocker, D. Walter, G. Liu, J. Garside, S. Furber, C. Mayr). arXiv:2103.08392 [cs.AR]. Aug. 2022.
 </li>
 <p> </p>
@@ -147,3 +143,4 @@ IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024
 </li>
 
 </ul>
+B
