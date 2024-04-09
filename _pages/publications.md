@@ -143,4 +143,3 @@ IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024
 </li>
 
 </ul>
-B
