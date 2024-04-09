@@ -10,6 +10,10 @@ nav: true
 <ul>
 
 
+<li><a href="../assets/pdf/Presentation-Rennes-Apr-2024.pdf">Implementation and Standardization of Stochastic Rounding</a>. TARAN team seminar, Inria Rennes - Bretagne Atlantique. Apr. 2024.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-IEEE-P3109-Oct-2023.pdf">Discussion on Rounding</a>. Standard for Arithmetic Formats for Machine Learning. IEEE P3109 Working Group. Oct. 2023.
 </li>
 <p> </p>
