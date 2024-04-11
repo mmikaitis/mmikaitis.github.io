@@ -10,6 +10,10 @@ nav: true
 <ul>
 
 
+<li><a href="../assets/pdf/Presentation-Lyon-Apr-2024.pdf">Monotonicity of Multi-Term Floating-Point Adders</a>. AriC team seminar, ENS Lyon. Apr. 2024.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-Rennes-Apr-2024.pdf">Implementation and Standardization of Stochastic Rounding</a>. TARAN team seminar, Inria Rennes - Bretagne Atlantique. Apr. 2024.
 </li>
 <p> </p>
