@@ -8,6 +8,10 @@ nav: true
 
 <ul>
 
+<li><a href="https://www.ac.uma.es/arith2024/index.html">31th IEEE International Symposium on Computer Arithmetic</a>. M&aacute;laga, Spain. Jun. 2024.
+</li>
+<p> </p>
+
 <li><a href="https://posithub.org/conga/2024/">2024 Conference for Next Generation Arithmetic</a>. Virtual. Feb. 2024.
 </li>
 <p> </p>
