@@ -12,7 +12,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. Accepted for ARITH 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. Updated April 2024. Accepted for ARITH 2024. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
