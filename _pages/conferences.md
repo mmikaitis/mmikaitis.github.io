@@ -8,7 +8,7 @@ nav: true
 
 <ul>
 
-<li><a href="https://www.ac.uma.es/arith2024/index.html">31th IEEE International Symposium on Computer Arithmetic</a>. M&aacute;laga, Spain. Jun. 2024.
+<li><a href="https://www.ac.uma.es/arith2024/index.html">31th IEEE International Symposium on Computer Arithmetic</a>. M&aacute;laga, Spain. Jun. 2024. <a href="../assets/pdf/Presentation-ARITH2024.pdf">Slides</a>.
 </li>
 <p> </p>
 
@@ -20,7 +20,7 @@ nav: true
 </li>
 <p> </p>
 
-<li><a href="https://iciam2023.org">10th International Congress on Industrial and Applied Mathematics </a>. Tokyo, Japan. Aug. 2023. <a href="../assets/pdf/Presentation-ICIAM-Aug-2023.pdf">Slides</a>
+<li><a href="https://iciam2023.org">10th International Congress on Industrial and Applied Mathematics </a>. Tokyo, Japan. Aug. 2023. <a href="../assets/pdf/Presentation-ICIAM-Aug-2023.pdf">Slides</a>.
 </li>
 <p> </p>
 

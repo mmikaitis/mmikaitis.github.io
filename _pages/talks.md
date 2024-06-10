@@ -10,6 +10,10 @@ nav: true
 <ul>
 
 
+<li><a href="../assets/pdf/Presentation-ARITH2024.pdf">MATLAB Simulator of Level-Index Arithmetic</a>. 31st IEEE Symposium on Computer Arithmetic (ARITH). Jun. 2024.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-Lyon-Apr-2024.pdf">Monotonicity of Multi-Term Floating-Point Adders</a>. AriC team seminar, ENS Lyon. Apr. 2024.
 </li>
 <p> </p>
