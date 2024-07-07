@@ -12,12 +12,11 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2402.02301">MATLAB Simulator of Level-Index Arithmetic</a>. arXiv:2402.02301 [cs.MS]. Feb. 2024. Updated April 2024. Accepted for ARITH 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://ieeexplore.ieee.org/document/10579434">MATLAB Simulator of Level-Index Arithmetic</a>. Proc. 31st IEEE Symp. Comput. Arithmetic. M&aacute;laga, Spain. Jul. 2024.  <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/document/10454250">Monotonicity of Multi-Term Floating-Point Adders</a>. IEEE Trans. Comput., 73:6. Feb. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
+<li> <a href="https://ieeexplore.ieee.org/document/10454250">Monotonicity of Multi-Term Floating-Point Adders</a>. IEEE Trans. Comput., 73:6. Feb. 2024.
 <p> </p>
 
 <li> <a href="https://dl.acm.org/doi/10.1145/3585515">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). ACM Trans. Math. Software, 49:2. Jun. 2023. <a href="https://nla-group.org/2020/11/25/cpfloat/">Blog post</a> on this research.
@@ -36,7 +35,7 @@ nav: true
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/document/9533756">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. 2021 Int. Joint Conf. Neural Networks (IJCNN). Shenzhen, China. 18-22 Jul. 2021.
+<li> <a href="https://ieeexplore.ieee.org/document/9533756">Stochastic Rounding: Algorithms and Hardware Accelerator</a>. Proc. 2021 Int. Joint Conf. Neural Networks (IJCNN). Shenzhen, China. Sep. 2021.
 </li>
 <p> </p>
 
@@ -48,7 +47,7 @@ nav: true
 </li>
 <p> </p>
 
-<li><a href="https://ieeexplore.ieee.org/document/9154497">Issues with rounding in the GCC implementation of the ISO 18037:2008 standard fixed-point arithmetic</a>. 27th IEEE Symp. Comput. Arithmetic. Portland, OR, US. 7-10 Jun. 2020. <a href="https://nla-group.org/2020/01/06/technical-report-issues-with-rounding-in-the-gcc-implementation-of-the-iso-180372008-standard-fixed-point-arithmetic/">Blog post</a> on this research.
+<li><a href="https://ieeexplore.ieee.org/document/9154497">Issues with rounding in the GCC implementation of the ISO 18037:2008 standard fixed-point arithmetic</a>. Proc. 27th IEEE Symp. Comput. Arithmetic. Portland, OR, US. Aug. 2020. <a href="https://nla-group.org/2020/01/06/technical-report-issues-with-rounding-in-the-gcc-implementation-of-the-iso-180372008-standard-fixed-point-arithmetic/">Blog post</a> on this research.
 </li>
 <p> </p>
 
@@ -60,7 +59,7 @@ nav: true
 </li>
 <p> </p>
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785">Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). 25th IEEE Symp. Comput. Arithmetic. Amherst, MA, US. 25-27 June 2018.
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/8464785">Approximate Fixed-Point Elementary Function Accelerator for the SpiNNaker-2 Neuromorphic Chip</a> (with D. R. Lester, D. Shang, S. B. Furber, G. Liu, J. Garside, S. Scholze, S. H&ouml;ppner, and A. Dixius). Proc. 25th IEEE Symp. Comput. Arithmetic. Amherst, MA, US. Sep. 2018.
 </li>
 <p> </p>
 
@@ -114,7 +113,7 @@ nav: true
 <ul>
 
 <li> <a href="../assets/pdf/754-errata-comments.pdf">List of potential typographical issues in
-IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024.
 </li>
 <p> </p>
 
