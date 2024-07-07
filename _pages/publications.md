@@ -17,6 +17,7 @@ nav: true
 <p> </p>
 
 <li> <a href="https://ieeexplore.ieee.org/document/10454250">Monotonicity of Multi-Term Floating-Point Adders</a>. IEEE Trans. Comput., 73:6. Feb. 2024.
+</li>
 <p> </p>
 
 <li> <a href="https://dl.acm.org/doi/10.1145/3585515">CPFloat: A C library for emulating low-precision arithmetic</a> (with M. Fasi). ACM Trans. Math. Software, 49:2. Jun. 2023. <a href="https://nla-group.org/2020/11/25/cpfloat/">Blog post</a> on this research.
