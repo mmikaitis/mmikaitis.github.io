@@ -34,4 +34,4 @@ My [.bib file](https://github.com/mmikaitis/mm-bib/blob/main/mm-bib.bib).
 
 [Mathematics Genealogy Project entry](https://www.mathgenealogy.org/id.php?id=290941). Tree ([PNG](../assets/img/tree.png)) generated with [Geneagrapher](https://observablehq.com/@davidalber/geneagrapher).
 
-I am a member of the [Jaguar Enthusiasts' Club](https://jec.org.uk)] and do my best to keep an example of the x300 (1996) and an example of the x400 (2003) on the road in a presentable condition.
+I am a member of the [Jaguar Enthusiasts' Club](https://jec.org.uk) and do my best to keep an example of the x300 (1996) and an example of the x400 (2003) on the road in presentable conditions.
