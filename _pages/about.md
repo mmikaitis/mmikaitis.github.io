@@ -30,4 +30,6 @@ I occasionally contribute to the [NLA group blog](https://nla-group.org/blog/).
 
 My [.bib file](https://github.com/mmikaitis/mm-bib/blob/main/mm-bib.bib).
 
+[Leeds Mathematical Software and Hardware lab](https://github.com/north-numerical-computing).
+
 [Mathematics Genealogy Project entry](https://www.mathgenealogy.org/id.php?id=290941). Tree ([PNG](../assets/img/tree.png)) generated with [Geneagrapher](https://observablehq.com/@davidalber/geneagrapher).
