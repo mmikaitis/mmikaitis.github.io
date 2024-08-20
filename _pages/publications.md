@@ -113,7 +113,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://perso.lip6.fr/Theo.Mary/doc/NarrowRange.pdf">Error analysis of matrix multiplication with narrow range floating-point arithmetic</a> (with Theo Mary). hal-04671474. Aug. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://hal.science/hal-04671474">Error analysis of matrix multiplication with narrow range floating-point arithmetic</a> (with Theo Mary). hal-04671474. Aug. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
