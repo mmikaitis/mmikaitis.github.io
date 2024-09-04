@@ -9,7 +9,7 @@ profile:
   image: mantas-profile-pic0.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Computing</p>
+    <p>School of Computer Science</p>
     <p>Sir William Henry Bragg Building</p>
     <p>University of Leeds</p>
     <p>Woodhouse Lane, Leeds</p>
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in the [School of Computing](https://eps.leeds.ac.uk/computing) at the University of Leeds. Before this I was a Research Associate with the [Numerical Linear Algebra Group](https://nla-group.org) at the University of Manchester, working with [Professor Nicholas J. Higham](https://nhigham.com). I received a B.Sc. (Hons.) degree in Computer Science in 2016 and a PhD degree in Computer Science in 2020 (supervised by Dr David Lester and Professor Steve Furber), both from the University of Manchester.
+I am a Lecturer in the [School of Computer Science](https://eps.leeds.ac.uk/computing) at the University of Leeds. Before this I was a Research Associate with the [Numerical Linear Algebra Group](https://nla-group.org) at the University of Manchester, working with [Professor Nicholas J. Higham](https://nhigham.com). I received a B.Sc. (Hons.) degree in Computer Science in 2016 and a PhD degree in Computer Science in 2020 (supervised by Dr David Lester and Professor Steve Furber), both from the University of Manchester.
 
 My research interests include: computer arithmetic, numerical linear algebra, high-performance computing, mathematical software, performance optimization and benchmarking.
 
