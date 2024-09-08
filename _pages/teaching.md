@@ -11,6 +11,9 @@ nav: true
 <ul>
 
 <li> <a 
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25</a></li>
+
+<li> <a 
 href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a> (with Martin Callaghan). Slides (<a href="../assets/pdf/COMP2211-2023-slides.pdf">PDF</a>) based on <a href="https://www.os-book.com/OS10/">Operating System Concepts. Silberschatz, Galvin, Gagne. 10th ed.</a></li>
 
 </ul>
