@@ -9,6 +9,9 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-Leeds-SCS-Jan-2025.pdf">High-Performance Computing Research at Leeds (with a focus on Computer Arithmetic)</a>. School of Computer Science Research Day, University of Leeds. Jan. 2025.
+</li>
+<p> </p>
 
 <li><a href="../assets/pdf/Presentation-ARITH2024.pdf">MATLAB Simulator of Level-Index Arithmetic</a>. 31st IEEE Symposium on Computer Arithmetic (ARITH). Jun. 2024.
 </li>
