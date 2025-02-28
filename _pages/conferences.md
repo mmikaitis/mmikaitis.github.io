@@ -11,7 +11,7 @@ Upcoming:
 <ul>
 
 <li><a href="https://www.dagstuhl.de/26081">	
-Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Germany. Feb. 2026.
+Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Wadern, Germany. Feb. 2026.
 </li>
 <p> </p>
 
