@@ -26,6 +26,12 @@ My research interests include: computer arithmetic, numerical linear algebra, hi
 
 [Leeds Mathematical Software and Hardware lab](https://github.com/north-numerical-computing).
 
+Grants:
+
+<ul>
+<li> EPSRC New Investigator Award "Informing Future Numerical Standards by Determining Features of Non-Standard Mathematical Hardware" (2025-2028).</li>
+</ul>
+
 Current PhD students:
 
 <ul>
