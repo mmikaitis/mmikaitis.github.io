@@ -8,6 +8,12 @@ nav: true
 
 <ul>
 
+
+<li><a href="https://www.dagstuhl.de/26081">	
+Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Germany. Feb. 2026.
+</li>
+<p> </p>
+
 <li><a href="https://approxcomputing.sciencesconf.org">	
 Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France. Oct. 2025.
 </li>

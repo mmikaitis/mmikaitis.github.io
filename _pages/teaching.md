@@ -6,21 +6,15 @@ description: Below is a list of my recent teaching activities.
 nav: true
 ---
 
-<b>Module lead (University of Leeds):</b>
+<b>University of Leeds:</b>
 
 <ul>
 
 <li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25</a></li>
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25. Slides (<a href="../assets/pdf/COMP2211-2024-slides.pdf">PDF</a>) based on <a href="https://www.os-book.com/OS10/">Operating System Concepts. Silberschatz, Galvin, Gagne. 10th ed.</a></a></li>
 
 <li> <a 
 href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a> (with Martin Callaghan). Slides (<a href="../assets/pdf/COMP2211-2023-slides.pdf">PDF</a>) based on <a href="https://www.os-book.com/OS10/">Operating System Concepts. Silberschatz, Galvin, Gagne. 10th ed.</a></li>
-
-</ul>
-
-<b>Teaching support (University of Leeds):</b>
-
-<ul>
 
 <li> <a 
 href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a> (with Martin Callaghan). Week 7: Scheduling (<a href="../assets/pdf/COMP2211_week7.pdf">PDF</a>).</li>
