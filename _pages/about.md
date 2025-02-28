@@ -24,15 +24,18 @@ I am a Lecturer in the [School of Computer Science](https://eps.leeds.ac.uk/comp
 
 My research interests include: computer arithmetic, numerical linear algebra, high-performance computing, mathematical software, performance optimization and benchmarking.
 
+[Leeds Mathematical Software and Hardware lab](https://github.com/north-numerical-computing).
+
+Current PhD students:
+
+Maliha Islam (2025-Present)
+[William Woolfenden](https://willwoolf.github.io/about.html) (2025-Present)
+
 Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM assembly, Git, LaTeX, Bash.
 
 I am a member of IEEE 754 and IEEE P3109 floating-point standardization working groups. IEEE P3109 interim report is [available](https://github.com/P3109/Public/blob/main/Shared%20Reports/IEEE%20WG%20P3109%20Interim%20Report.pdf).
 
-I occasionally contribute to the [NLA group blog](https://nla-group.org/blog/).
-
 My [.bib file](https://github.com/mmikaitis/mm-bib/blob/main/mm-bib.bib).
-
-[Leeds Mathematical Software and Hardware lab](https://github.com/north-numerical-computing).
 
 [Mathematics Genealogy Project entry](https://www.mathgenealogy.org/id.php?id=290941). Tree ([PNG](../assets/img/tree.png)) generated with [Geneagrapher](https://observablehq.com/@davidalber/geneagrapher).
 

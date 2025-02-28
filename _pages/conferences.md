@@ -1,4 +1,4 @@
----
+A---
 layout: page
 permalink: /conferences/
 title: Conferences
@@ -7,7 +7,6 @@ nav: true
 ---
 
 <ul>
-
 
 <li><a href="https://www.dagstuhl.de/26081">	
 Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Germany. Feb. 2026.
@@ -19,6 +18,11 @@ Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France
 </li>
 <p> </p>
 
+<li><a href="https://enumath2025.eu">	
+The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025</a>. Heidelberg, Germany. Sep. 2025.
+</li>
+<p> </p>
+
 <li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025.
 </li>
 <p> </p>
@@ -26,6 +30,10 @@ Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France
 <li><a href="https://bvieuble.me/casanla/">The Chinese Academy of Sciences Workshop on Approximate computing in Numerical Linear Algebra</a>. Beijing, China. Apr. 2025.
 </li>
 <p> </p>
+
+</ul>
+
+<ul>
 
 <li><a href="https://www.ac.uma.es/arith2024/index.html">31th IEEE International Symposium on Computer Arithmetic</a>. M&aacute;laga, Spain. Jun. 2024. <a href="../assets/pdf/Presentation-ARITH2024.pdf">Slides</a>.
 </li>
