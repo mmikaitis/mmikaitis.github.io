@@ -28,8 +28,10 @@ My research interests include: computer arithmetic, numerical linear algebra, hi
 
 Current PhD students:
 
-Maliha Islam (2025-Present)
-[William Woolfenden](https://willwoolf.github.io/about.html) (2025-Present)
+<ul>
+<li> Maliha Islam (2025-Present)
+<li> [William Woolfenden](https://willwoolf.github.io/about.html) (2025-Present)
+</ul>
 
 Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM assembly, Git, LaTeX, Bash.
 

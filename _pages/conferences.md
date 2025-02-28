@@ -1,4 +1,4 @@
-A---
+---
 layout: page
 permalink: /conferences/
 title: Conferences
