@@ -30,7 +30,7 @@ Current PhD students:
 
 <ul>
 <li> Maliha Islam (2025-Present)</li>
-<li> [William Woolfenden](https://willwoolf.github.io/about.html) (2025-Present)</li>
+<li> <a href="https://willwoolf.github.io/about.html">William Woolfenden</a> (2025-Present)</li>
 </ul>
 
 Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM assembly, Git, LaTeX, Bash.
