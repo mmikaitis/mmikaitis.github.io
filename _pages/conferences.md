@@ -6,6 +6,8 @@ description: List of upcoming and past conferences and workshops attended.
 nav: true
 ---
 
+Upcoming:
+
 <ul>
 
 <li><a href="https://www.dagstuhl.de/26081">	
@@ -32,6 +34,8 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 <p> </p>
 
 </ul>
+
+Past:
 
 <ul>
 
