@@ -9,6 +9,10 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-Leicester-Mar-2025.pdf">Low- and Mixed-Precision Floating-Point Hardware: Algorithms, Error analysis, and Standardisation</a>. Mathematics Seminar Series, School of Computing and Mathematical Sciences, University of Leicester. Mar. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-Leeds-SCS-Jan-2025.pdf">High-Performance Computing Research at Leeds (with a focus on Computer Arithmetic)</a>. School of Computer Science Research Day, University of Leeds. Jan. 2025.
 </li>
 <p> </p>
