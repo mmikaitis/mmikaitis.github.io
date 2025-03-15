@@ -12,6 +12,10 @@ nav: true
 
 <ul>
 
+<li> <a href="https://hal.science/hal-04671474">Error analysis of matrix multiplication with narrow range floating-point arithmetic</a> (with Theo Mary). hal-04671474. Aug. 2024. Accepted for SIAM SISC. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+<p> </p>
+
 <li> <a href="https://ieeexplore.ieee.org/document/10579434">MATLAB Simulator of Level-Index Arithmetic</a>. Proc. 31st IEEE Symp. Comput. Arithmetic. M&aacute;laga, Spain. Jul. 2024.
 </li>
 <p> </p>
@@ -113,11 +117,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://hal.science/hal-04671474">Error analysis of matrix multiplication with narrow range floating-point arithmetic</a> (with Theo Mary). hal-04671474. Aug. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-<p> </p>
-
-<li> <a href="https://hal.science/hal-04665809v1/document">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-04665809. Jul. 2024. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://hal.science/hal-04665809v1/document">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-04665809. Jul. 2024.
 </li>
 <p> </p>
 
