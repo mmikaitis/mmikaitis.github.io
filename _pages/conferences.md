@@ -25,6 +25,10 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 </li>
 <p> </p>
 
+<li><a href="https://numericalanalysisconference.org.uk">The 30th Biennial Numerical Analysis Conference</a>. Glasgow, UK. Jun. 2025.
+</li>
+<p> </p>
+
 <li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025.
 </li>
 <p> </p>
