@@ -33,15 +33,15 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 </li>
 <p> </p>
 
-<li><a href="https://bvieuble.me/casanla/">The Chinese Academy of Sciences Workshop on Approximate computing in Numerical Linear Algebra</a>. Beijing, China. Apr. 2025.
-</li>
-<p> </p>
-
 </ul>
 
 Past:
 
 <ul>
+
+<li><a href="https://bvieuble.me/casanla/">The Chinese Academy of Sciences Workshop on Approximate computing in Numerical Linear Algebra</a>. Beijing, China. Apr. 2025. <a href="../assets/pdf/Presentation-Beijing-CAS-Apr-2025.pdf">Slides</a>.
+</li>
+<p> </p>
 
 <li><a href="https://www.ac.uma.es/arith2024/index.html">31th IEEE International Symposium on Computer Arithmetic</a>. M&aacute;laga, Spain. Jun. 2024. <a href="../assets/pdf/Presentation-ARITH2024.pdf">Slides</a>.
 </li>
@@ -55,7 +55,7 @@ Past:
 </li>
 <p> </p>
 
-<li><a href="https://iciam2023.org">10th International Congress on Industrial and Applied Mathematics </a>. Tokyo, Japan. Aug. 2023. <a href="../assets/pdf/Presentation-ICIAM-Aug-2023.pdf">Slides</a>.
+<li><a href="https://iciam2023.org">10th International Congress on Industrial and Applied Mathematics </a>. Tokyo, Japan (Virtual). Aug. 2023. <a href="../assets/pdf/Presentation-ICIAM-Aug-2023.pdf">Slides</a>.
 </li>
 <p> </p>
 

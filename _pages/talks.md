@@ -9,6 +9,11 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-Beijing-CAS-Apr-2025.pdf">Error Analysis of Matrix Multiplication with Narrow
+Range Floating-Point Arithmetic</a>. Workshop on Approximate computing in Numerical Linear Algebra, Academy of Mathematics and Systems Science, The Chinese Academy of Sciences. Apr. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-Leicester-Mar-2025.pdf">Low- and Mixed-Precision Floating-Point Hardware: Algorithms, Error analysis, and Standardisation</a>. Mathematics Seminar Series, School of Computing and Mathematical Sciences, University of Leicester. Mar. 2025.
 </li>
 <p> </p>
