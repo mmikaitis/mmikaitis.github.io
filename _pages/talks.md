@@ -9,6 +9,10 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-Leeds-SC-May-2025.pdf">Overview of New Floating-Point Standards: IEEE P3109 (May 2024 interim report) and Open Compute Project OCP8/MX 1.0</a>. Scientific Computation Group seminar, University of Leeds. May. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-Beijing-CAS-Apr-2025.pdf">Error Analysis of Matrix Multiplication with Narrow
 Range Floating-Point Arithmetic</a>. Workshop on Approximate computing in Numerical Linear Algebra, Academy of Mathematics and Systems Science, The Chinese Academy of Sciences. Apr. 2025.
 </li>
