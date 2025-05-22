@@ -26,12 +26,20 @@ My research interests include: computer arithmetic, numerical linear algebra, hi
 
 Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM assembly, Git, LaTeX, Bash.
 
+[Scientific Computation Group seminar series](https://scicomp.leeds.ac.uk).
+
 [Leeds Mathematical Software and Hardware lab](https://github.com/north-numerical-computing).
 
 Grants:
 
 <ul>
 <li> EPSRC New Investigator Award "Informing Future Numerical Standards by Determining Features of Non-Standard Mathematical Hardware" (2025-2028).</li>
+</ul>
+
+Postdocs:
+
+<ul>
+<li> <a href="https://sites.google.com/view/faiziktk/">Faizan Khattak</a> (2025-Present) </li>
 </ul>
 
 PhD students:
