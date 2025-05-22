@@ -39,7 +39,7 @@ Grants:
 Postdocs:
 
 <ul>
-<li> <a href="https://sites.google.com/view/faiziktk/">Faizan Khattak</a> (2025-Present) </li>
+<li> <a href="https://sites.google.com/view/faiziktk/">Faizan Ahmad Khattak</a> (2025-Present) </li>
 </ul>
 
 PhD students:
