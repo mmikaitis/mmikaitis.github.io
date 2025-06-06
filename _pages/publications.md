@@ -1,4 +1,4 @@
-A---A
+---
 layout: page
 permalink: /publications/
 title: Publications
@@ -12,7 +12,8 @@ nav: true
 
 <ul>
 
-<li> <a href="https://hal.science/hal-04665809v1/document">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-04665809. Feb. 2025. Accepted for SIAM SISC. <img src="../assets/img/new-product.png" width="30" height="30">
+<li>
+ <a href="https://hal.science/hal-04665809v3/document">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-04665809. Feb. 2025. Accepted for SIAM SISC. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
