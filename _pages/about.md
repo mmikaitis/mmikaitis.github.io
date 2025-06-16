@@ -33,7 +33,7 @@ Main programming and software skills: C, MATLAB, Python, CUDA, Verilog, ARM asse
 Grants:
 
 <ul>
-<li> <a href="https://gtr.ukri.org/projects?ref=151">EPSRC New Investigator Award "Informing Future Numerical Standards by Determining Features of Non-Standard Mathematical Hardware" (2025-2028)</a>.</li>
+<li>EPSRC New Investigator Award <a href="https://gtr.ukri.org/projects?ref=151">"Informing Future Numerical Standards by Determining Features of Non-Standard Mathematical Hardware"</a> (2025-2028).</li>
 </ul>
 
 Postdocs:

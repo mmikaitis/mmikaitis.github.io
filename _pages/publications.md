@@ -122,6 +122,11 @@ nav: true
 
 <ul>
 
+<li>
+ <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). 	arXiv:2506.11277 [math.NA]. Jun. 2025. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+<p> </p>
+
 <li> <a href="../assets/pdf/754-errata-comments.pdf">List of potential typographical issues in
 IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024.
 </li>
