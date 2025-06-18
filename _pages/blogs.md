@@ -8,6 +8,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://scicomp.leeds.ac.uk/pasc25-minisymposium-on-matrix-multiplication/">PASC25 Minisymposium on Matrix Multiplication</a> Jun. 2025.
+</li>
+
 <li> <a href="https://nla-group.org/2023/10/02/iciam-2023-minisymposium-on-stochastic-rounding-for-reduced-precision-arithmetic-in-scientific-computing/">ICIAM 2023 Minisymposium on Stochastic Rounding for Reduced Precision Arithmetic in Scientific Computing</a> (Numerical Linear Algebra group's blog). Oct. 2023.
 </li>
 
