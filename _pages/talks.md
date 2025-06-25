@@ -9,6 +9,10 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-BNAC-Jun-2025.pdf">Error Analysis of Matrix Multiplication with Narrow Range Floating-Point Arithmetic</a>. The 30th Biennial Numerical Analysis Conference (BNAC). June. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-PASC25-Jun-2025.pdf">Error Analysis of Matrix Multiplication with Narrow Range Floating-Point Arithmetic</a>. The Platform for Advanced Scientific Computing conference (PASC25). June. 2025.
 </li>
 <p> </p>
