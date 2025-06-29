@@ -32,10 +32,10 @@ Past:
 <ul>
 
 <li><a href="https://numericalanalysisconference.org.uk">The 30th Biennial Numerical Analysis Conference</a>. Glasgow, UK. Jun. 2025.
-</li>
+</li> <a href="../assets/pdf/Presentation-BNAC-Jun-2025.pdf">Slides</a>.
 <p> </p>
 
-<li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025.
+<li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025. <a href="../assets/pdf/Presentation-PASC25-Jun-2025.pdf">Slides</a>.
 </li>
 <p> </p>
 
