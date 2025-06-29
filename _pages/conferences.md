@@ -25,6 +25,12 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 </li>
 <p> </p>
 
+</ul>
+
+Past:
+
+<ul>
+
 <li><a href="https://numericalanalysisconference.org.uk">The 30th Biennial Numerical Analysis Conference</a>. Glasgow, UK. Jun. 2025.
 </li>
 <p> </p>
@@ -32,12 +38,6 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 <li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025.
 </li>
 <p> </p>
-
-</ul>
-
-Past:
-
-<ul>
 
 <li><a href="https://bvieuble.me/casanla/">The Chinese Academy of Sciences Workshop on Approximate computing in Numerical Linear Algebra</a>. Beijing, China. Apr. 2025. <a href="../assets/pdf/Presentation-Beijing-CAS-Apr-2025.pdf">Slides</a>.
 </li>
