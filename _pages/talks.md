@@ -10,9 +10,7 @@ nav: true
 <ul>
 
 
-<li><a href="../assets/pdf/Presentation-Intel-Aug-2025.pdf">Accurate Matrix Multiplication with Low- and
-Mixed-Precision Matrix Multiply-Add Units: Determining Non-Standard Floating-Point Features and Developing
-Efficient Algorithms</a>. Intel VSSAD seminar. Aug. 2025.
+<li><a href="../assets/pdf/Presentation-Intel-Aug-2025.pdf">Accurate Matrix Multiplication with Low- and Mixed-Precision Matrix Multiply-Add Units: Determining Non-Standard Floating-Point Features and Developing Efficient Algorithms</a>. Intel VSSAD seminar. Aug. 2025.
 </li>
 <p> </p>
 
