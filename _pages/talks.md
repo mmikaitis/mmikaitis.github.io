@@ -9,6 +9,13 @@ nav: true
 
 <ul>
 
+
+<li><a href="../assets/pdf/Presentation-Intel-Aug-2025.pdf">Accurate Matrix Multiplication with Low- and
+Mixed-Precision Matrix Multiply-Add Units: Determining Non-Standard Floating-Point Features and Developing
+Efficient Algorithms</a>. Intel VSSAD seminar. Aug. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-BNAC-Jun-2025.pdf">Error Analysis of Matrix Multiplication with Narrow Range Floating-Point Arithmetic</a>. The 30th Biennial Numerical Analysis Conference (BNAC). June. 2025.
 </li>
 <p> </p>
