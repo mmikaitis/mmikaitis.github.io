@@ -8,6 +8,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://scicomp.leeds.ac.uk/enumath-2025-minisymposium-on-probabilistic-rounding/">ENUMATH 2025 Minisymposium on Probabilistic Rounding</a> Sep. 2025.
+</li>
+
 <li> <a href="https://scicomp.leeds.ac.uk/pasc25-minisymposium-on-matrix-multiplication/">PASC25 Minisymposium on Matrix Multiplication</a> Jun. 2025.
 </li>
 

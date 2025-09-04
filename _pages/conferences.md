@@ -25,16 +25,17 @@ Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France
 </li>
 <p> </p>
 
-<li><a href="https://enumath2025.eu">	
-The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025</a>. Heidelberg, Germany. Sep. 2025.
-</li>
-<p> </p>
-
 </ul>
 
 Past:
 
 <ul>
+
+<li><a href="https://enumath2025.eu">
+The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025</a>. Heidelberg, Germany. Sep. 2025.
+</li> <a href="../assets/pdf/Presentation-ENUMATH2025-Sep-2025.pdf">Slides</a>.
+<p> </p>
+
 
 <li><a href="https://numericalanalysisconference.org.uk">The 30th Biennial Numerical Analysis Conference</a>. Glasgow, UK. Jun. 2025.
 </li> <a href="../assets/pdf/Presentation-BNAC-Jun-2025.pdf">Slides</a>.
