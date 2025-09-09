@@ -8,6 +8,16 @@ nav: true
 
 <ul>
 
+
+<li> <b>MathBenchmark.jl</b><br>
+
+An easy to configure and deploy software package for measuring the errors of mathematical functions in the Julia programming language.
+
+<a href="https://github.com/north-numerical-computing/MathBenchmark.jl">Source code (GitHub)</a>.
+
+</li>
+<br>
+
 <li> <b>sli</b><br>
 
 A MATLAB toolbox for simulating custom-precision symmetric level-index arithmetic. <br>
