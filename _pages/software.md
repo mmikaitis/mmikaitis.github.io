@@ -11,7 +11,7 @@ nav: true
 
 <li> <b>MathBenchmark.jl</b><br>
 
-An easy to configure and deploy software package for measuring the errors of mathematical functions in the Julia programming language.
+An easy to configure and deploy software package for measuring the errors of mathematical functions in the Julia programming language. <br>
 
 <a href="https://github.com/north-numerical-computing/MathBenchmark.jl">Source code (GitHub)</a>.
 
