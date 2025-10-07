@@ -9,6 +9,11 @@ nav: true
 
 <ul>
 
+
+<li><a href="../assets/pdf/Presentation-Sorbonne-Oct-2025.pdf">Accuracy of Mathematical Functions in Julia</a>. Workshop on Approximate Computing in Numerical Linear Algebra (Sorbonne). Oct. 2025.
+</li>
+<p> </p>
+
 <li><a href="../assets/pdf/Presentation-ENUMATH2025-Sep-2025.pdf">Stochastic rounding: implementation, error analysis and applications (an update to the 2022 survey paper)</a>. The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025. Sep. 2025.
 </li>
 <p> </p>
