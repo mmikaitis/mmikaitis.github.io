@@ -20,16 +20,16 @@ Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and En
 </li>
 <p> </p>
 
-<li><a href="https://approxcomputing.sciencesconf.org">	
-Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France. Oct. 2025.
-</li>
-<p> </p>
-
 </ul>
 
 Past:
 
 <ul>
+
+<li><a href="https://approxcomputing.sciencesconf.org">	
+Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France. Oct. 2025.
+</li> <a href="../assets/pdf/Presentation-Sorbonne-Oct-2025.pdf">Slides</a>.
+<p> </p>
 
 <li><a href="https://enumath2025.eu">
 The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025</a>. Heidelberg, Germany. Sep. 2025.
