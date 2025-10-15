@@ -12,16 +12,16 @@ nav: true
 
 <ul>
 
+<li>
+ <a href="https://epubs.siam.org/doi/full/10.1137/24M1681458">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). SIAM J. Sci. Comput., 45:5. Oct. 2025.
+</li>
+<p> </p>
+
 <li> <a href="https://eprints.whiterose.ac.uk/id/eprint/231310/">Generalized Methodology for Determining Numerical Features of Hardware Floating-Point Matrix Multipliers: Part I </a> (with Faizan A. Khattak). Accepted for 29th Annual IEEE High Performance Extreme Computing. Sep. 2025 <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 <p> </p>
 
 <li> <a href="https://epubs.siam.org/doi/10.1137/24M1685109">Error analysis of matrix multiplication with narrow range floating-point arithmetic</a> (with Theo Mary). SIAM J. Sci. Comput., 47:4. Jul. 2025.
-</li>
-<p> </p>
-
-<li>
- <a href="https://hal.science/hal-04665809v3/document">Probabilistic error analysis of limited-precision stochastic rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-04665809. Feb. 2025. Accepted for SIAM SISC.
 </li>
 <p> </p>
 
