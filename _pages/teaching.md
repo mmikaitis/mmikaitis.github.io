@@ -11,6 +11,9 @@ nav: true
 <ul>
 
 <li> <a 
+href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860 Beyond the Core: Advanced Hardware, Operating Systems and Parallelism.</a></li>
+
+<li> <a 
 href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25.</a> Slides (<a href="../assets/pdf/COMP2211-2024-slides.pdf">PDF</a>) based on <a href="https://www.os-book.com/OS10/">Operating System Concepts. Silberschatz, Galvin, Gagne. 10th ed.</a></li>
 
 <li> <a 
