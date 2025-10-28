@@ -94,7 +94,7 @@ A library of fixed-point arithmetic extensions to the ISO 18037 implementation o
 
 <li> <b>GNU Compiler Collection (GCC)</b><br>
 
-A list of my patches to the GCC can be found <a href="https://gcc.gnu.org/git/?p=gcc.git;a=search;h=HEAD;s=Mantas+Mikaitis;st=author">here</a>.
+A list of my patches to the GCC can be found <a href="https://inbox.sourceware.org/gcc-patches/?q=Mikaitis">here</a>.
 
 </li>
 <br>
