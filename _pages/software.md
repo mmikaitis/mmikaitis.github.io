@@ -16,7 +16,6 @@ An easy to configure and deploy software package for measuring the errors of mat
 <a href="https://github.com/north-numerical-computing/MathBenchmark.jl">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 <li> <b>sli</b><br>
 
@@ -25,7 +24,6 @@ A MATLAB toolbox for simulating custom-precision symmetric level-index arithmeti
 <a href="https://github.com/north-numerical-computing/level-index-simulator">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 <li> <b>Anymatrix</b><br>
 
@@ -34,7 +32,6 @@ A MATLAB matrix collection with an interface to organize matrices into groups an
 <a href="https://github.com/mmikaitis/anymatrix">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 
 <li> <b>Testsuites for the GPU floating-point arithmetics</b><br>
@@ -44,7 +41,6 @@ A set of testsuites for the numerical behaviour of recent GPUs equipped with the
 <a href="https://github.com/mfasi/tensor-cores-numerical-behavior">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 
 
@@ -55,7 +51,6 @@ A C library for rounding matrix elements to customizable lower precision floatin
 <a href="https://github.com/mfasi/cpfloat">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 
 
@@ -66,7 +61,6 @@ A collection of MATLAB functions for emulating stochastic rounding on IEEE 754-c
 <a href="https://uk.mathworks.com/matlabcentral/fileexchange/74819-stochastic-rounding-toolbox">Source code (MATLAB File Exchange)</a>.
 
 </li>
-<br>
 
 
 
@@ -77,7 +71,6 @@ A MATLAB function for rounding matrix elements to customizable lower precision f
 <a href="https://github.com/higham/chop">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 
 
@@ -88,7 +81,6 @@ A library of fixed-point arithmetic extensions to the ISO 18037 implementation o
 <a href="https://github.com/SpiNNakerManchester/spinn_common/blob/master/include/round.h">Source code (GitHub)</a>.
 
 </li>
-<br>
 
 
 
@@ -97,7 +89,6 @@ A library of fixed-point arithmetic extensions to the ISO 18037 implementation o
 A list of my patches to the GCC can be found <a href="https://inbox.sourceware.org/gcc-patches/?q=Mikaitis">here</a>.
 
 </li>
-<br>
 
 </ul>
 
