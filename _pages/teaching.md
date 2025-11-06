@@ -11,13 +11,13 @@ nav: true
 <ul>
 
 <li> <a 
-href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860 Beyond the Core: Advanced Hardware, Operating Systems and Parallelism 2025/26.</a> Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
+href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2025/26.</a> Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
 
 <li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25.</a> Slides: <a href="../assets/pdf/COMP2211-2024-slides.pdf">PDF</a>.</a></li>
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25.</a> Slides: <a href="../assets/pdf/COMP2211-2024-slides.pdf">PDF</a>.</li>
 
 <li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a> (with Martin Callaghan). Slides: <a href="../assets/pdf/COMP2211-2023-slides.pdf">PDF</a>.</a></li>
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a> (with Martin Callaghan). Slides: <a href="../assets/pdf/COMP2211-2023-slides.pdf">PDF</a>.</li>
 
 <li> <a 
 href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a> (with Martin Callaghan). Week 7: Scheduling (<a href="../assets/pdf/COMP2211_week7.pdf">PDF</a>).</li>
