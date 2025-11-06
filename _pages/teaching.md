@@ -6,7 +6,7 @@ description: Below is a list of my recent teaching activities.
 nav: true
 ---
 
-<b>University of Leeds:</b>
+<b>University of Leeds (Lecturer):</b>
 
 <ul>
 
@@ -24,7 +24,7 @@ href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211
 
 </ul>
 
-<b>Teaching support (University of Manchester):</b>
+<b>University of Manchester (Teaching support):</b>
 
 <ul>
 
@@ -34,7 +34,7 @@ href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211
 
 </ul>
 
-<b>Graduate Teaching Assistant (University of Manchester):</b>
+<b>University of Manchester (Graduate Teaching Assistant):</b>
 <ul>
 <li> <a href="http://studentnet.cs.manchester.ac.uk/syllabus/index.php?code=COMP22111&year=2018">COMP22111 Processor Microarchitecture 2018/19</a></li>
 
