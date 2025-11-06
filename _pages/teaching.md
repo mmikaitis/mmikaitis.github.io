@@ -30,7 +30,7 @@ href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211
 
 <li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2021/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2021/22</a> (with Oliver Rhodes).</li>
 
-<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a> (with Oliver Rhodes). Developed and presented teaching and assessment materials for two weeks of this course; week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
+<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a> (with Oliver Rhodes). Week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and Week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
 
 </ul>
 
