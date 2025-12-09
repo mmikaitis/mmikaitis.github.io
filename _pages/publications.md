@@ -126,6 +126,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
 <li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
