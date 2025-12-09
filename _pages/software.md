@@ -8,6 +8,13 @@ nav: true
 
 <ul>
 
+<li> <b>MATLAB Tensor Core models</b><br>
+
+A set of models of tensor cores written in MATLAB <br>
+
+<a href="https://github.com/north-numerical-computing/MATLAB-tensor-core">Source code (GitHub)</a>.
+
+</li>
 
 <li> <b>MathBenchmark.jl</b><br>
 
