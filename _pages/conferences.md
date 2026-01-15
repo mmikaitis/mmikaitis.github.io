@@ -22,6 +22,9 @@ SIAM Conference on Parallel Processing for Scientific Computing (PP26)</a>. Berl
 27th Conference of the International Linear Algebra Society (ILAS 2026)</a>. Virginia Tech, Blacksburg, VA, USA. May 2026.
 </li>
 
+<li><a href="https://juliacon.org/2026/">
+Conference on the Julia programming language (JuliaCon 2026)</a>. Johannes Gutenberg University Mainz, Germany. Aug. 2026.
+</li>
 
 </ul>
 
