@@ -10,14 +10,6 @@ Upcoming:
 
 <ul>
 
-<li><a href="https://www.dagstuhl.de/26081">	
-Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Wadern, Germany. Feb. 2026.
-</li>
-
-<li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">
-SIAM Conference on Parallel Processing for Scientific Computing (PP26)</a>. Berlin, Germany. Mar. 2026.
-</li>
-
 <li><a href="https://ilas2026.math.vt.edu/index.html">
 27th Conference of the International Linear Algebra Society (ILAS 2026)</a>. Virginia Tech, Blacksburg, VA, USA. May 2026.
 </li>
@@ -31,6 +23,14 @@ Conference on the Julia programming language (JuliaCon 2026)</a>. Johannes Guten
 Past:
 
 <ul>
+
+<li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">
+SIAM Conference on Parallel Processing for Scientific Computing (PP26)</a>. Berlin, Germany. Mar. 2026.
+</li>
+
+<li><a href="https://www.dagstuhl.de/26081">
+Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Wadern, Germany. Feb. 2026.
+</li>
 
 <li><a href="https://approxcomputing.sciencesconf.org">	
 Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France. Oct. 2025.

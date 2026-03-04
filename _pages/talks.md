@@ -9,6 +9,8 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-SIAM-PP26.pdf">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a>. SIAM Conference on Parallel Processing for Scientific Computing (PP26). Mar. 2026.
+</li>
 
 <li><a href="../assets/pdf/Presentation-Sorbonne-Oct-2025.pdf">Accuracy of Mathematical Functions in Julia</a>. Workshop on Approximate Computing in Numerical Linear Algebra (Sorbonne). Oct. 2025.
 </li>
