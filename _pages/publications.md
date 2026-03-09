@@ -7,12 +7,36 @@ nav: true
 ---
 
 
+<font size="5">Preprints</font>
+
+
+<ul>
+
+<li> <a href="https://arxiv.org/abs/2603.06060">Limited-Precision Stochastic Rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). arXiv:2603.06060 [math.NA]. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
+<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025. arXiv:2603.06060 [math.NA]. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
+<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025.
+</li>
+
+
+<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025.
+</li>
+
+</li>
+
+
+</ul>
+
+
 <font size="5">Peer-reviewed publications</font>
 
 
 <ul>
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/11196657">Generalized Methodology for Determining Numerical Features of Hardware Floating-Point Matrix Multipliers: Part I </a> (with Faizan A. Khattak). 2025 IEEE High Perform. Extreme Comput. (HPEC), Oct. 2025 <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/11196657">Generalized Methodology for Determining Numerical Features of Hardware Floating-Point Matrix Multipliers: Part I </a> (with Faizan A. Khattak). 2025 IEEE High Perform. Extreme Comput. (HPEC), Oct. 2025.
 </li>
 
 
@@ -121,21 +145,10 @@ nav: true
 
 
 
-<font size="5">Preprints or technical reports</font>
+<font size="5">Technical reports</font>
 
 
 <ul>
-
-<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-
-<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-
-
-<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025.
-</li>
-
 
 <li> <a href="../assets/pdf/754-errata-comments.pdf">List of potential typographical issues in
 IEEE Standard for Floating-Point Arithmetic (IEEE 754-2019)</a>. Note. Mar. 2024.

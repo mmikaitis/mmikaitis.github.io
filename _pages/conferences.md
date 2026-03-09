@@ -26,7 +26,7 @@ Past:
 
 <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">
 SIAM Conference on Parallel Processing for Scientific Computing (PP26)</a>. Berlin, Germany. Mar. 2026.
-</li>
+</li> <a href="../assets/pdf/Presentation-SIAM-PP26.pdf">Slides</a>.
 
 <li><a href="https://www.dagstuhl.de/26081">
 Dagstuhl Seminar 26081: Reduced and Mixed Precision Computing for Science and Engineering Applications</a>. Wadern, Germany. Feb. 2026.
