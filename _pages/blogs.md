@@ -8,6 +8,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://scicomp.leeds.ac.uk/members-of-the-scientific-computation-group-organise-a-minisymposium-in-siam-pp-2026/">Members of the Scientific Computation group organise a minisymposium in SIAM PP 2026</a> Mar. 2026.
+</li>
+
 <li> <a href="https://scicomp.leeds.ac.uk/enumath-2025-minisymposium-on-probabilistic-rounding/">ENUMATH 2025 Minisymposium on Probabilistic Rounding</a> Sep. 2025.
 </li>
 
