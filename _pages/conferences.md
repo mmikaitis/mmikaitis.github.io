@@ -39,7 +39,7 @@ Workshop on Approximate Computing in Numerical Linear Algebra</a>. Paris, France
 
 <li><a href="https://enumath2025.eu">
 The European Conference on Numerical Mathematics and Advanced Applications (ENUMATH) 2025</a>. Heidelberg, Germany. Sep. 2025.
-</li> <a href="../assets/pdf/Presentation-ENUMATH2025-Sep-2025.pdf">Slides</a>.
+</li> <a href="../assets/pdf/Presentation-ENUMATH2025-Sep-2025.pdf">Slides</a>. <a href="https://scicomp.leeds.ac.uk/enumath-2025-minisymposium-on-probabilistic-rounding/">Blog</a>.
 
 
 
@@ -47,7 +47,7 @@ The European Conference on Numerical Mathematics and Advanced Applications (ENUM
 </li> <a href="../assets/pdf/Presentation-BNAC-Jun-2025.pdf">Slides</a>.
 
 
-<li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025. <a href="../assets/pdf/Presentation-PASC25-Jun-2025.pdf">Slides</a>.
+<li><a href="https://pasc25.pasc-conference.org">The Platform for Advanced Scientific Computing (PASC) Conference</a>. Brugg, Switzerland. Jun. 2025. <a href="../assets/pdf/Presentation-PASC25-Jun-2025.pdf">Slides</a>. <a href="https://scicomp.leeds.ac.uk/pasc25-minisymposium-on-matrix-multiplication/">Blog</a>.
 </li>
 
 
