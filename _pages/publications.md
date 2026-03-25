@@ -12,6 +12,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://hal.science/hal-05561674">Probabilistic Error Analysis of Limited-Precision Stochastic Rounding: Horner’s Algorithm and Pairwise Summation</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-05561674. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
 <li> <a href="https://arxiv.org/abs/2603.06060">Limited-Precision Stochastic Rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). arXiv:2603.06060 [math.NA]. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
