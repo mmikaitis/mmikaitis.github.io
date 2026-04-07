@@ -12,20 +12,19 @@ nav: true
 
 <ul>
 
+<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025 (Updated Apr. 2026). <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
+<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025 (Updated Mar. 2026).
+</li>
+
 <li> <a href="https://hal.science/hal-05561674">Probabilistic Error Analysis of Limited-Precision Stochastic Rounding: Horner’s Algorithm and Pairwise Summation</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-05561674. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
 <li> <a href="https://arxiv.org/abs/2603.06060">Limited-Precision Stochastic Rounding</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). arXiv:2603.06060 [math.NA]. Mar. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
-<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
-</li>
-
 <li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025.
-</li>
-
-
-<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025.
 </li>
 
 </ul>
