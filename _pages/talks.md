@@ -9,6 +9,9 @@ nav: true
 
 <ul>
 
+<li><a href="../assets/pdf/Presentation-FPTalks-May-2026.pdf">Accurate Models of NVIDIA Tensor Cores</a>. FPTalks monthly seminar. May, 2026.
+</li>
+
 <li><a href="../assets/pdf/Presentation-SIAM-PP26.pdf">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a>. SIAM Conference on Parallel Processing for Scientific Computing (PP26). Mar. 2026.
 </li>
 
