@@ -10,10 +10,6 @@ Upcoming:
 
 <ul>
 
-<li><a href="https://ilas2026.math.vt.edu/index.html">
-27th Conference of the International Linear Algebra Society (ILAS 2026)</a>. Virginia Tech, Blacksburg, VA, USA. May 2026.
-</li>
-
 <li><a href="https://www.arith2026.org">33rd IEEE International Symposium on Computer Arithmetic</a>. Fulda, Germany. Jun. 2026.
 </li>
 
@@ -26,6 +22,10 @@ Conference on the Julia programming language (JuliaCon 2026)</a>. Johannes Guten
 Past:
 
 <ul>
+
+<li><a href="https://ilas2026.math.vt.edu/index.html">
+27th Conference of the International Linear Algebra Society (ILAS 2026)</a>. Virginia Tech, Blacksburg, VA, USA. May 2026.
+</li> </li> <a href="../assets/pdf/Presentation-1-ILAS2026-May-2026.pdf">Slides 1</a>.
 
 <li><a href="https://www.siam.org/conferences-events/siam-conferences/pp26/">
 SIAM Conference on Parallel Processing for Scientific Computing (PP26)</a>. Berlin, Germany. Mar. 2026.
