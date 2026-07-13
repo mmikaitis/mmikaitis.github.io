@@ -32,7 +32,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2512.07004">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). arXiv:2512.07004 [cs.MS]. Dec. 2025 (Updated June 2026). Accepted for ACM TACO. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://dl.acm.org/doi/10.1145/3830409">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). ACM Trans. Archit. Code Optim. Jul. 2026. Just Accepted. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
 <li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025 (Updated Mar. 2026). Accepted for SIAM SISC.
