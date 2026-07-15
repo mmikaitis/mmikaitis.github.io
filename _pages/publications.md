@@ -12,6 +12,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://arxiv.org/abs/2607.12915">Simulation of Custom-Precision OCP MX Block Floating-Point Formats and Arithmetic</a> (with Maliha Islam). arXiv:2607.12915 [cs.MS]. Jul. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
 <li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 

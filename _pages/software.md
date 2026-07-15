@@ -8,6 +8,15 @@ nav: true
 
 <ul>
 
+
+<li> <b>MXsim</b><br>
+
+A simulator for OCP MX formats and arithmetic. <br>
+
+<a href="https://github.com/north-numerical-computing/MXsim">Source code (GitHub)</a>.
+
+</li>
+
 <li> <b>MATLAB Tensor Core models</b><br>
 
 A set of models of tensor cores written in MATLAB <br>
