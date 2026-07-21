@@ -35,6 +35,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://ieeexplore.ieee.org/document/11614542">The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing</a> (with S. Scholze et al). IEEE Open J. Circuits Syst. Jul. 2026. Early Access. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
 <li> <a href="https://dl.acm.org/doi/10.1145/3830409">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). ACM Trans. Archit. Code Optim. Jul. 2026. Just Accepted. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
