@@ -18,12 +18,6 @@ nav: true
 <li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
-<li> <a href="https://hal.science/hal-05561674">Probabilistic Error Analysis of Limited-Precision Stochastic Rounding: Horner’s Algorithm and Pairwise Summation</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-05561674. Mar. 2026.
-</li>
-
-<li> <a href="https://arxiv.org/abs/2603.06060">What is New in Stochastic Rounding: a Survey on Theory, Hardware, and Applications</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). arXiv:2603.06060 [math.NA]. Mar. 2026. (Updated July, 2026)
-</li>
-
 <li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025.
 </li>
 
@@ -34,6 +28,13 @@ nav: true
 
 
 <ul>
+
+<li> <a href="https://hal.science/hal-05561674">Probabilistic Error Analysis of Limited-Precision Stochastic Rounding: Horner’s Algorithm and Pairwise Summation</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). hal-05561674. Mar. 2026. Accepted for the proceedings of ENUMATH 2025.
+</li>
+
+<li> <a href="https://arxiv.org/abs/2603.06060">What is New in Stochastic Rounding: a Survey on Theory, Hardware, and Applications</a> (with El-Mehdi El Arar, Massimiliano Fasi, and Silviu Ioan-Filip). arXiv:2603.06060 [math.NA]. Mar. 2026. (Updated July, 2026). Accepted for the proceedings of ENUMATH 2025.
+</li>
+
 
 <li> <a href="https://ieeexplore.ieee.org/document/11614542">The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing</a> (with S. Scholze et al). IEEE Open J. Circuits Syst. Jul. 2026. Early Access. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
