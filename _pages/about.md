@@ -49,7 +49,7 @@ PhD students:
 <li> <a href="https://willwoolf.github.io/about.html">William Woolfenden</a> (2025-Present)</li>
 </ul>
 
-I am a member of IEEE 754 and IEEE P3109 floating-point standardization working groups. IEEE P3109 interim report is [available](https://github.com/P3109/Public/blob/main/Shared%20Reports/IEEE%20WG%20P3109%20Interim%20Report.pdf).
+I am a member of IEEE 754 and IEEE P3109 floating-point standardization working groups. The final IEEE P3109 interim report is [available](https://tinyurl.com/35d83283).
 
 My [.bib file](https://github.com/mmikaitis/mm-bib/blob/main/mm-bib.bib).
 
