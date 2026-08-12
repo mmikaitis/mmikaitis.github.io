@@ -9,6 +9,11 @@ nav: true
 
 <ul>
 
+
+
+<li><a href="../assets/pdf/Presentation-JuliaCon-Aug-2026.pdf">Accuracy of Mathematical Functions in Julia</a>. JuliaCon 2026 (Mainz, Germany). Aug., 2026.
+</li>
+
 <li><a href="../assets/pdf/Presentation-FPTalks-May-2026.pdf">Accurate Models of NVIDIA Tensor Cores</a>. FPTalks monthly seminar. May, 2026.
 </li>
 

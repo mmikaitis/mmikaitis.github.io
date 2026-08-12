@@ -10,15 +10,16 @@ Upcoming:
 
 <ul>
 
-<li><a href="https://juliacon.org/2026/">
-Conference on the Julia programming language (JuliaCon 2026)</a>. Johannes Gutenberg University Mainz, Germany. Aug. 2026.
-</li>
-
 </ul>
 
 Past:
 
 <ul>
+
+
+<li><a href="https://juliacon.org/2026/">
+Conference on the Julia programming language (JuliaCon 2026)</a>. Johannes Gutenberg University Mainz, Germany. Aug. 2026.
+</li> <a href="../assets/pdf/Presentation-JuliaCon-Aug-2026.pdf">Slides</a>
 
 <li><a href="https://www.arith2026.org">33rd IEEE International Symposium on Computer Arithmetic</a>. Fulda, Germany. Jun. 2026.
 </li>
