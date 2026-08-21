@@ -10,6 +10,10 @@ Upcoming:
 
 <ul>
 
+<li><a href="https://www.siam.org/conferences-events/siam-conferences/cse27/">
+SIAM Conference on Computational Science and Engineering (CSE27)</a>. Pittsburgh, Pennsylvania, U.S. Feb. 2027.
+</li> <a href="../assets/pdf/Presentation-JuliaCon-Aug-2026.pdf">Slides</a>
+
 </ul>
 
 Past:
