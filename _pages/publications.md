@@ -18,7 +18,7 @@ nav: true
 <li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
-<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025.
+<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with Tejaswa Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. (Updated Aug. 2026)
 </li>
 
 </ul>
