@@ -12,7 +12,10 @@ nav: true
 
 <ul>
 
-<li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://arxiv.org/abs/2609.14845">Accurate Models of AMD Matrix Cores</a> (with F. A. Khattak and C. Graziani). arXiv:2609.14845 [cs.AR]. Sep. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
+<li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026.
 </li>
 
 <li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with M. Giordano and T. Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. (Updated Aug. 2026)
@@ -36,10 +39,10 @@ nav: true
 </li>
 
 
-<li> <a href="https://ieeexplore.ieee.org/document/11614542">The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing</a> (with S. Scholze et al). IEEE Open J. Circuits Syst., 7. Jul. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://ieeexplore.ieee.org/document/11614542">The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing</a> (with S. Scholze et al). IEEE Open J. Circuits Syst., 7. Jul. 2026.
 </li>
 
-<li> <a href="https://dl.acm.org/doi/10.1145/3830409">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). ACM Trans. Archit. Code Optim., 23:3. Aug. 2026. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://dl.acm.org/doi/10.1145/3830409">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). ACM Trans. Archit. Code Optim., 23:3. Aug. 2026. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>.
 </li>
 
 <li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025 (Updated Mar. 2026). Accepted for SIAM SISC.
