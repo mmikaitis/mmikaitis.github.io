@@ -10,8 +10,12 @@ Upcoming:
 
 <ul>
 
+<li><a href="https://www.siam.org/conferences-events/siam-conferences/la27/">
+SIAM Conference on Applied Linear Algebra (LA27)</a>. Long Beach, California, U.S. May, 2027
+</li>
+
 <li><a href="https://www.siam.org/conferences-events/siam-conferences/cse27/">
-SIAM Conference on Computational Science and Engineering (CSE27)</a>. Pittsburgh, Pennsylvania, U.S. Feb. 2027.
+SIAM Conference on Computational Science and Engineering (CSE27)</a>. Pittsburgh, Pennsylvania, U.S. Feb., 2027.
 </li> 
 
 </ul>
