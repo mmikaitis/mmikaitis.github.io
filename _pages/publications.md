@@ -12,7 +12,7 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2609.37137">Mixed-Precision Computing for Scientific Discovery: Formats, Co-Design, and Responsible Approximation. arXiv:2609.37137 [math.NA]. Oct. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+<li> <a href="https://arxiv.org/abs/2609.37137">Mixed-Precision Computing for Scientific Discovery: Formats, Co-Design, and Responsible Approximation </a>. arXiv:2609.37137 [math.NA]. Oct. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
 <li> <a href="https://arxiv.org/abs/2609.14845">Accurate Models of AMD Matrix Cores</a> (with F. A. Khattak and C. Graziani). arXiv:2609.14845 [cs.AR]. Sep. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
