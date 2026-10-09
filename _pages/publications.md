@@ -12,6 +12,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://arxiv.org/abs/2609.37137">Analysis and Detection of Stagnation in Floating-Point Summation</a> (with W. Woolfenden). arXiv:2610.10819 [math.NA]. Oct. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
+</li>
+
 <li> <a href="https://arxiv.org/abs/2609.37137">Mixed-Precision Computing for Scientific Discovery: Formats, Co-Design, and Responsible Approximation </a>. arXiv:2609.37137 [math.NA]. Oct. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
