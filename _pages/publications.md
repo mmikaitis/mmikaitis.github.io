@@ -21,9 +21,6 @@ nav: true
 <li> <a href="https://arxiv.org/abs/2609.14845">Accurate Models of AMD Matrix Cores</a> (with F. A. Khattak and C. Graziani). arXiv:2609.14845 [cs.AR]. Sep. 2026. <img src="../assets/img/new-product.png" width="30" height="30">
 </li>
 
-<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with M. Giordano and T. Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. (Updated Aug. 2026)
-</li>
-
 </ul>
 
 
@@ -31,6 +28,9 @@ nav: true
 
 
 <ul>
+
+<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with M. Giordano and T. Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. (Updated Aug. 2026). Accepted for ACM TOMS.
+</li>
 
 <li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. Accepted for ACM TOMS.
 </li>
