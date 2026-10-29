@@ -29,10 +29,10 @@ nav: true
 
 <ul>
 
-<li> <a href="https://arxiv.org/abs/2509.05666">Accuracy of Mathematical Functions in Julia</a> (with M. Giordano and T. Rizyal). arXiv:2509.05666 [cs.MS]. Sep. 2025. (Updated Aug. 2026). Accepted for ACM TOMS.
+<li> <a href="https://dl.acm.org/doi/10.1145/3860891">Accuracy of Mathematical Functions in Julia</a> (with M. Giordano and T. Rizyal). ACM. Trans. Math. Software. Early view. Oct. 2026.
 </li>
 
-<li> <a href="https://hal.science/hal-05658479">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). hal-05658479. Jun. 2026. Accepted for ACM TOMS.
+<li> <a href="https://dl.acm.org/doi/10.1145/3858628">Sharper Bounds on the Required Fixed-Point Precision for Emulating Floating-Point Matrix Multiplication</a> (with Massimiliano Fasi and Theo Mary). ACM Trans. Math. Software. Early view. Oct. 2026.
 </li>
 
 <li> <a href="https://arxiv.org/abs/2607.12915">Simulation of Custom-Precision OCP MX Block Floating-Point Formats and Arithmetic</a> (with Maliha Islam). arXiv:2607.12915 [cs.MS]. Jul. 2026. Accepted for IEEE HPEC 2026.

@@ -6,21 +6,27 @@ description: Below is a list of my recent teaching activities.
 nav: true
 ---
 
-<b>University of Leeds (Lecturer):</b>
+<b>University of Leeds:</b>
 
 <ul>
 
-<li> <a 
-href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2025/26.</a> Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
+<li> <a
+href="https://catalogue.leeds.ac.uk/Module/UG/COMP/3270/202627">COMP3270: High Performance Computing 2026/27</a>.</li>
 
-<li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25.</a> Slides: <a href="../assets/pdf/COMP2211-2024-slides.pdf">PDF</a>.</li>
+<li> <a
+href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202627">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2026/27</a>.</li>
 
-<li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a> (with Martin Callaghan). Slides: <a href="../assets/pdf/COMP2211-2023-slides.pdf">PDF</a>.</li>
+<li> <a
+href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2025/26</a>. Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
 
-<li> <a 
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a> (with Martin Callaghan). Week 7: Scheduling (<a href="../assets/pdf/COMP2211_week7.pdf">PDF</a>).</li>
+<li> <a
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25</a>.</li>
+
+<li> <a
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a>.</li>
+
+<li> <a
+href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a>.</li>
 
 </ul>
 
@@ -28,9 +34,9 @@ href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211
 
 <ul>
 
-<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2021/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2021/22</a> (with Oliver Rhodes).</li>
+<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2021/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2021/22</a>.</li>
 
-<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a> (with Oliver Rhodes). Week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and Week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
+<li> <a href="http://studentnet.cs.manchester.ac.uk/ugt/2020/COMP36212/syllabus/">COMP36212 Mathematical Systems and Computation 2020/21</a>. Week 2 on <i>Floating-Point Arithmetic</i> (<a href="../assets/pdf/COMP36212_week2.pdf">PDF</a>), and Week 3 on <i>Extending the Precision</i> (<a href="../assets/pdf/COMP36212_week3.pdf">PDF</a>).</li>
 
 </ul>
 
