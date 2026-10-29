@@ -10,23 +10,17 @@ nav: true
 
 <ul>
 
-<li> <a
-href="https://catalogue.leeds.ac.uk/Module/UG/COMP/3270/202627">COMP3270: High Performance Computing 2026/27</a>.</li>
+<li> <a href="https://catalogue.leeds.ac.uk/Module/UG/COMP/3270/202627">COMP3270: High Performance Computing 2026/27</a>.</li>
 
-<li> <a
-href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202627">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2026/27</a>.</li>
+<li> <a href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202627">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2026/27</a>.</li>
 
-<li> <a
-href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2025/26</a>. Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
+<li> <a href="https://catalogue.leeds.ac.uk/Module/UG/COMP/2860/202526">COMP2860: Advanced Hardware, Operating Systems and Parallelism 2025/26</a>. Slides: <a href="../assets/pdf/COMP2860_OS_combined_slides.pdf">PDF</a>.</li>
 
-<li> <a
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25</a>.</li>
+<li> <a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=COMP-2211">COMP2211 Operating Systems 2024/25</a>.</li>
 
-<li> <a
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a>.</li>
+<li> <a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202324&M=COMP-2211">COMP2211 Operating Systems 2023/24</a>.</li>
 
-<li> <a
-href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a>.</li>
+<li> <a href="https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=COMP-2211">COMP2211 Operating Systems 2022/23</a>.</li>
 
 </ul>
 
