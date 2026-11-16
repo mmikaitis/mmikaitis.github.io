@@ -8,6 +8,9 @@ nav: true
 
 <ul>
 
+<li> <a href="https://scicomp.leeds.ac.uk/scientific-computation-group-members-are-partners-on-a-e10m-2026-erc-synergy-grant-to-tackle-challenges-for-sustainable-computing/">Scientific Computation Group Members are Partners on a €10M 2026 ERC Synergy Grant to Tackle Challenges for Sustainable Computing</a> Nov. 2026.
+</li>
+
 <li> <a href="https://scicomp.leeds.ac.uk/members-of-the-scientific-computation-group-organise-a-minisymposium-in-siam-pp-2026/">Members of the Scientific Computation group organise a minisymposium in SIAM PP 2026</a> Mar. 2026.
 </li>
 

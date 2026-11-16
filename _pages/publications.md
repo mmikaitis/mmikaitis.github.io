@@ -51,7 +51,7 @@ nav: true
 <li> <a href="https://dl.acm.org/doi/10.1145/3830409">Accurate Models of NVIDIA Tensor Cores</a> (with Faizan A. Khattak). ACM Trans. Archit. Code Optim., 23:3. Aug. 2026. <a href="https://scicomp.leeds.ac.uk/new-preprint-accurate-models-of-nvidia-tensor-cores/">Blog</a>.
 </li>
 
-<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). arXiv:2506.11277 [math.NA]. Jun. 2025 (Updated Mar. 2026). Accepted for SIAM SISC.
+<li> <a href="https://arxiv.org/pdf/2506.11277">Analysis of Floating-Point Matrix Multiplication Computed via Integer Arithmetic</a> (with Ahmad Abdelfattah, Jack Dongarra, Massimiliano Fasi, and Françoise Tisseur). SIAM J. Sci. Comput., 48:6. Nov. 2026.
 </li>
 
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/11196657">Generalized Methodology for Determining Numerical Features of Hardware Floating-Point Matrix Multipliers: Part I </a> (with Faizan A. Khattak). 2025 IEEE High Perform. Extreme Comput. (HPEC), Oct. 2025.
